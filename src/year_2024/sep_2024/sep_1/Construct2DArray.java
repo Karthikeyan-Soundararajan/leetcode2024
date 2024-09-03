@@ -1,4 +1,4 @@
-package year_2024.sep_2024;
+package year_2024.sep_2024.sep_1;
 
 import java.util.Arrays;
 
