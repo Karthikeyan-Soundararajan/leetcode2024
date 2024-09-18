@@ -1,9 +1,7 @@
 package year_2024.sep_2024.sep_17;
 
 import java.util.Arrays;
-import java.util.Map;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class UncommonFromSentences {
 
